@@ -1,0 +1,2 @@
+buildpacks:
+  - https://github.com/fnando/heroku-buildpack-nodejs.git#v67
